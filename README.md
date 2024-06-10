@@ -17,8 +17,8 @@
 
 ### :woman_technologist: About Me :
 I am a beginner programmer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
-- :zap: In my free time, I solve algorithmis problems and CTF tasks.
-
+- :zap: In my free time, I solve algorithmic problems and CTF tasks.
+- ⬛  In my scientific work, I research adversarial black-box attacks on machine learning systems.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-catterpealer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD-%D0%BA%D0%B0%D1%80%D0%B0%D0%BA%D1%83%D0%BB%D0%B5%D0%B2-87b72021b/)
 
 
@@ -31,8 +31,11 @@ I am a beginner programmer  <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original-wordmark.svg" title="OCaml" **alt="OCaml" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" **alt="PyTorch" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-line.svg" title="Lua" **alt="Lua" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" **alt="Haskell" width="40" height="40"/>
+     
 
 </div>

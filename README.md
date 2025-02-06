@@ -30,7 +30,6 @@ I'm junior IT security analyst  <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :hammer_and_wrench: My tech stack :
 <div>
-  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C" **alt="C" width="40" height="40"/>
@@ -39,7 +38,7 @@ I'm junior IT security analyst  <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original-wordmark.svg" title="OCaml" **alt="OCaml" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" **alt="django" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" **alt="Haskell" width="40" height="40"/>
      
 

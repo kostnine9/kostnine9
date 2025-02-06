@@ -17,12 +17,12 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a beginner programmer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
-- 💻 I am bachelor of Applied Mathematics and Computer Science at Lomonosov Moscow State University.
+I'm junior IT security analyst  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+- 💻 I'm bachelor of Applied Mathematics and Computer Science at Lomonosov Moscow State University.
 - :zap: In my free time, I solve algorithmic problems and CTF tasks.
 - ⬛  In my scientific work, I research adversarial black-box attacks on machine learning systems.
 - 🥇 Winner of the international scientific conference "Lomonosov-2024".
-- 📚 My area of ​​interest: artificial intelligence, cybersecurity, web development.
+- 📚 My area of ​​interest: artificial intelligence, cybersecurity.
 - :accessibility:  I know 3 languages: Russian, English, Kazakh.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-catterpealer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD-%D0%BA%D0%B0%D1%80%D0%B0%D0%BA%D1%83%D0%BB%D0%B5%D0%B2-87b72021b/)
 

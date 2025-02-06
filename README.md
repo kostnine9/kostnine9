@@ -45,7 +45,6 @@ I'm junior IT security analyst  <img src="https://media.giphy.com/media/WUlplcMp
    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg" title="Splunk" **alt="Splunk" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="Terraform" width="40" height="40"/>
-   
      <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" **alt="Haskell" width="40" height="40"/>
      
 

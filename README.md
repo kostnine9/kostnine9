@@ -19,7 +19,7 @@
 ### :woman_technologist: About Me :
 I'm junior IT security analyst  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 - 💻 I'm bachelor of Applied Mathematics and Computer Science at Lomonosov Moscow State University (2024).
-- I am currently studying for a Master's degree in AI (2026).
+- 📚 I'm currently studying for a Master's degree in AI (2026).
 - :zap: In my free time, I solve algorithmic problems and CTF tasks.
 - ⬛  In my scientific work, I research adversarial black-box attacks on machine learning systems.
 - 🥇 Winner of the international scientific conference "Lomonosov-2024".

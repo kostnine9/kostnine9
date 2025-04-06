@@ -24,7 +24,7 @@ I'm junior IT security analyst  <img src="https://media.giphy.com/media/WUlplcMp
 - 🥇 Winner of the international scientific conference "Lomonosov-2024".
 - 📚 My area of ​​interest: artificial intelligence, cybersecurity.
 - :accessibility:  I know 3 languages: Russian, English, Kazakh.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-catterpealer-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD-%D0%BA%D0%B0%D1%80%D0%B0%D0%BA%D1%83%D0%BB%D0%B5%D0%B2-87b72021b/](https://www.linkedin.com/in/konstantin-karakulev/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-catterpealer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/konstantin-karakulev/)
 
 
 
